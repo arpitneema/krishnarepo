@@ -4,6 +4,8 @@ package hackerrank;
 
 
 //changed from repo 1
+//gorinal ishq mitha
+
 import java.util.*;
 import java.util.function.Consumer;
 
