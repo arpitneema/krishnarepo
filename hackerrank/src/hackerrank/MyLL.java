@@ -52,7 +52,7 @@ public class MyLL<E>
     /**
      * Links e as first element.
      */
-    private void linkFirst(E e) {
+    private void linkFirstnamechanged(E e) {
         final Node<E> f = first;
         final Node<E> newNode = new Node<>(null, e, f);
         first = newNode;
@@ -220,7 +220,7 @@ public class MyLL<E>
      * @param e the element to add
      */
     public void addFirst(E e) {
-        linkFirst(e);
+        linkFirstnamechanged(e);
     }
 
     /**
