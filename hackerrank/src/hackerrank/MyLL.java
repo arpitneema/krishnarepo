@@ -9,7 +9,7 @@ package hackerrank;
 import java.util.*;
 import java.util.function.Consumer;
 
-//added repo2ramadhir
+//ramram
 public class MyLL<E>
     extends AbstractSequentialList<E>
     implements List<E>, Deque<E>, Cloneable, java.io.Serializable
