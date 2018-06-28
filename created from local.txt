@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 same line changing from local
+=======
+changed by vm
+>>>>>>> d9fa2615d5c95327ee2c4b64c7ffaac446edfcf0
 changed 1st time radhe
 modifying from local
 modifying from local for second time
